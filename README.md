@@ -11,8 +11,8 @@
 
 ### 第 1 周：Prompt 工程与结构化输出
 
-- [ ] **Day 1**：注册 OpenAI/DeepSeek API，使用 Postman 调用 Chat Completion 接口，理解 `system/user/assistant` 角色。
-- [ ] **Day 2**：学习 Few-shot（少样本）技巧，写一个能将乱序用户需求转化为标准 JSON 的 Prompt。
+- [✅] **Day 1**：注册 OpenAI/DeepSeek API，使用 Postman 调用 Chat Completion 接口，理解 `system/user/assistant` 角色。
+- [✅] **Day 2**：学习 Few-shot（少样本）技巧，写一个能将乱序用户需求转化为标准 JSON 的 Prompt。
 - [ ] **Day 3**：学习 CoT（思维链），对比增加 `Let's think step by step` 前后模型推理能力差异。
 - [ ] **Day 4**：深入 JSON Mode 与 Structured Outputs，强制模型输出符合 TypeScript Interface 的数据。
 - [ ] **Day 5**：实战：写一个 Prompt，让模型根据描述生成 UI 配置项（如颜色、间距、文字）。
