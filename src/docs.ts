@@ -1,6 +1,7 @@
 import day1Md from '../day1/day1.md?raw'
 import day2Md from '../day2/day2.md?raw'
 import day3Md from '../day3/day3.md?raw'
+import day4Md from '../day4/day4.md?raw'
 import readmeMd from '../README.md?raw'
 
 export type DocItem = {
@@ -14,6 +15,7 @@ export const docs: DocItem[] = [
   { id: 'day1', title: 'Day 1 操作指南', content: day1Md },
   { id: 'day2', title: 'Day 2 学习计划', content: day2Md },
   { id: 'day3', title: 'Day 3 学习计划', content: day3Md },
+  { id: 'day4', title: 'Day 4 学习计划', content: day4Md },
   { id: 'readme', title: '项目说明 (README)', content: readmeMd },
 ]
 
