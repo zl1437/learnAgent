@@ -1,6 +1,6 @@
 # Day 1 操作指南
 
-要在第一天高效完成这个任务，你需要走通「获取密钥 → 接口测试 → 角色逻辑实验」这三个步骤。以下是 Day 1 的操作指南。
+要在第一天高效完成这个任务，你需要走通「获取密钥 -> 接口测试 -> 角色逻辑实验」这三个步骤。以下是 Day 1 的操作指南。
 
 ## 1. 注册与获取 API Key（建议选 DeepSeek）
 
@@ -24,7 +24,7 @@
    | `Content-Type` | `application/json` |
    | `Authorization` | `Bearer 你的API_KEY` |
 
-4. **Body**：选择 **raw** → **JSON**，填入例如：
+4. **Body**：选择 **raw** -> **JSON**，填入例如：
 
 ```json
 {
